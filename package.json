@@ -1,0 +1,23 @@
+{
+  "name": "@awais-khalil/project04_currency_converter",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.cjs",
+  "type": "module",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "Require": "^1.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "awais_currencyconverter": "index.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.16.0"
+  }
+}
